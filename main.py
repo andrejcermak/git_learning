@@ -14,6 +14,9 @@ def first_function():
 def second_function():
     print("this is second function")
 
+def third_function():
+    print("this is third function")
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
