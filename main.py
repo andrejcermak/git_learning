@@ -16,9 +16,17 @@ def mul(a, b):
 
 def div(a, b):
     print(a/b)
+def first_function():
+    print("this is first function")
+
+def second_function():
+    print("this is second function")
+
+def third_function():
+    print("this is third function")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-# Adding another docs
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
