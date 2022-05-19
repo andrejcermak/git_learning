@@ -34,4 +34,8 @@ def fib(a):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print(fib(5))
+    print(first_function())
+    print(second_function())
+    print(third_function())
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
